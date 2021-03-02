@@ -1,5 +1,5 @@
 # container-navigator
-Instructions for preparing and initializing Content Navigator database.
+This Github repo meant for instructions on preparing and initializing Content Navigator database, but it is obsolete since IBM Business Automation Navigator 3.0.8 which is contained in IBM Cloud Pak for Business Automation 20.0.2, and IBM FileNet Content Manager 5.5.5 release. For previous release, please following related documentation to consume it. We' stopped update of the scripts.
 
 ## DB2
 
